@@ -40,3 +40,78 @@ LINE 1: ...oin ("Timestamp", "Open", "High", "Low", "Close", "Volume_(B...
 [parameters: {'Timestamp': datetime.datetime(2026, 3, 20, 18, 29, 32, 966440), 'Open': 69795, 'High': 69795, 'Low': 69795, 'Close': 69795, 'Volume_ABTCZ': 572973.3769173219, 'Weighted_Price': 69795}]
 (Background on this error at: https://sqlalche.me/e/14/f405)
 
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: [Errno 2] No such file or directory: '/usr/local/airflow/include/data/bitstamp.csv'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: [Errno 2] No such file or directory: '/usr/local/airflow/include/data/bitstamp.csv'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'Timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'Timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'Timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'Timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'Timestamp'
+
+--- FAILURE AT None ---
+DAG: enterprise_bitcoin_etl_v1
+Task: clean_and_load_bitcoin
+Error: 'Timestamp'
+
