@@ -68,3 +68,13 @@ The final Streamlit UI displaying the current market state and historical conver
 **Secrets**: Rename airflow_settings.yaml.example to airflow_settings.yaml and add Slack/Postgres credentials.
 
 **Launch**: astro dev start -> streamlit run include/dashboard.py.
+
+## 👩‍💻 My Contribution
+
+This project was developed as part of a team effort.
+
+My contributions include:
+- Fixed CSV timestamp formatting issues
+- Debugged and resolved Airflow pipeline errors
+- Improved transformation logic in transformer.py
+- Successfully executed the ETL pipeline locally
